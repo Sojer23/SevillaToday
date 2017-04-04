@@ -10,13 +10,13 @@ app.get(BASE_API_PATH + "/menu-resi/loadInitialData", function (request, respons
     
     var dia1 = { "id": 1, "day": "Lunes","Almuerzo1": "Arroz con pollo","Almuerzo2": "Huevos, Chorizos y patatas","Postre1": "Fruta","Cena1": "Sopa",
     "Cena2": "Serranito","Postre2": "Yogurth" };
-    var dia2 = { "id": 1, "day": "Martes","Almuerzo1": "Cascote","Almuerzo2": "Huevos, Chorizos y patatas","Postre1": "Fruta","Cena1": "Crema de verduras",
+    var dia2 = { "id": 2, "day": "Martes","Almuerzo1": "Cascote","Almuerzo2": "Huevos, Chorizos y patatas","Postre1": "Fruta","Cena1": "Crema de verduras",
     "Cena2": "Filete de pollo","Postre2": "Fresas" };
-    var dia3 = { "id": 1, "day": "Miércoles","Almuerzo1": "Carne en salsa","Almuerzo2": "Pavias de merluza y ensalada","Postre1": "Fruta","Cena1": "Espinacas",
+    var dia3 = { "id": 3, "day": "Miércoles","Almuerzo1": "Carne en salsa","Almuerzo2": "Pavias de merluza y ensalada","Postre1": "Fruta","Cena1": "Espinacas",
     "Cena2": "Pollo asado","Postre2": "Flan" };
-    var dia4 = { "id": 1, "day": "Jueves","Almuerzo1": "Tortellinis con tomate y queso","Almuerzo2": "Calamares fritos","Postre1": "Fruta","Cena1": "Picadillo de verano",
+    var dia4 = { "id": 4, "day": "Jueves","Almuerzo1": "Tortellinis con tomate y queso","Almuerzo2": "Calamares fritos","Postre1": "Fruta","Cena1": "Picadillo de verano",
     "Cena2": "Pizza","Postre2": "Yogurth" };
-    var dia5 = { "id": 1, "day": "Viernes","Almuerzo1": "Patatas guisadas","Almuerzo2": "Gambas rebozadas","Postre1": "Fruta","Cena1": "Ensaladilla",
+    var dia5 = { "id": 5, "day": "Viernes","Almuerzo1": "Patatas guisadas","Almuerzo2": "Gambas rebozadas","Postre1": "Fruta","Cena1": "Ensaladilla",
     "Cena2": "Panini","Postre2": "Mouse" };
     
             
