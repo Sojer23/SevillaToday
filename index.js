@@ -10,7 +10,7 @@ var path = require('path');
 var publicFolder = path.join(__dirname, 'public');
 
 //Módulo con api Menú
-var moduleMenu = require("./public/APIS/apiMenu.js");
+var moduleMenu = require("./APIS/apiMenu.js");
 
 
 
